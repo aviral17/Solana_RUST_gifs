@@ -1,0 +1,11 @@
+A) Install RUST
+B) Install Solana
+
+C) 1) solana config set --url localhost
+   2) solana config get
+
+/* This means that Solana is set up to talk to our local network! When developing programs, we're going to be working w/ our local Solana network so we can quickly test stuff on our computer.
+
+The last thing to test is we want to make sure we can get a local Solana node running. We can actually set up a validator (miners for Ethereum blockchain) on our computer to test our programs with.  */   
+
+   3) solana-test-validator
