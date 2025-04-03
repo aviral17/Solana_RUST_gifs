@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+// Change its code and integrate it to RUST
 
 import bg from "./assets/bg.jpg";
 import twitterLogo from "./assets/twitter-logo.svg";
